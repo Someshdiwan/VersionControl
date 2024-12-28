@@ -1,0 +1,8 @@
+Somesh is learning git hub and git . here this is Vim :q
+
+:q
+w
+:wq
+
+
+
