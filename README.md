@@ -1,6 +1,6 @@
 # Git Command Roadmap 🚀
 
-This file serves as an in-depth guide to all major Git commands. It’s a perfect reference for both beginners and advanced Git users looking to enhance their understanding of version control.
+It’s a perfect reference for both beginners and advanced Git users looking to enhance their understanding of version control.
 
 ---
 
