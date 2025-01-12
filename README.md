@@ -1,9 +1,6 @@
 # Git Command Roadmap 🚀
-
 It’s a perfect reference for both beginners and advanced Git users looking to enhance their understanding of version control.
-
 ---
-
 ## 1. Core Commands
 
 ### `git init`
@@ -181,3 +178,7 @@ Fetches changes and re-applies commits on top of the fetched branch.
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a pull request
 
+---
+🌟 Show Your Support
+If you like this project, please consider giving it a ⭐ on GitHub!
+---
